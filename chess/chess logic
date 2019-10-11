@@ -1,0 +1,9 @@
+Chess pure logic 
+  This is the "Console" version of chess game that I replicate, It has some basic features: 
+    - Chess : 
+      + Movement
+      + Attack ( or Capture) with point calculated
+      + King capture = game over
+    - Player
+      + name of player number of win/lose/draw and score obtains in game
+      
